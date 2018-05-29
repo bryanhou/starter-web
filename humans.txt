@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Bryan Houliston		bryan.houliston@gmail.com	no-twitter
 
 # THANKS
 
